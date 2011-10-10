@@ -441,7 +441,7 @@
             this.MaximizeBox = false;
             this.Name = "frmBMDeviceMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Relyon BM Device Reader 1.00";
+            this.Text = "Relyon BM Device Reader 2.00";
             this.Load += new System.EventHandler(this.frmBMDeviceMain_Load);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmBMDeviceMain_FormClosing);
             this.Resize += new System.EventHandler(this.frmBMDeviceMain_Resize);
